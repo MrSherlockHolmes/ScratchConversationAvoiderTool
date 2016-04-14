@@ -1,4 +1,4 @@
-
+/*
 
 specially made for MegaApuTurkUltra, but anyone can use it.
 
